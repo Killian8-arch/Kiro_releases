@@ -1,0 +1,11 @@
+{
+  "version": "0.5.0",
+  "notes": "Première version publiée avec le système de mise à jour automatique.",
+  "pub_date": "2026-06-01T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "REMPLACER_PAR_LA_SIGNATURE",
+      "url": "https://github.com/Killian8-arch/Kiro_releases/releases/download/v0.5.0/kiro_0.5.0_x64-setup.nsis.zip"
+    }
+  }
+}
