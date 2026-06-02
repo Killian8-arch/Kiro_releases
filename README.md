@@ -9,7 +9,7 @@ Ce dépôt public héberge uniquement les binaires de Kiro. Le code source reste
 Dans le dépôt source (`Kiro`), configure la variable d'environnement avec ta clé privée :
 
 ```powershell
-$env:TAURI_SIGNING_PRIVATE_KEY = (Get-Content "C:\Users\KillianSerbie\.tauri\kiro-signing.key" -Raw)
+$env:TAURI_SIGNING_PRIVATE_KEY = (Get-Content "C:<chemin-vers-ta-clé>" -Raw)
 npx tauri build
 ```
 
