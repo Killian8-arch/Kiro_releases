@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
-  "notes": "Première version publique de Kiro.",
-  "pub_date": "2026-06-01T21:10:00Z",
+  "version": "0.5.1",
+  "notes": "Améliorations v0.5.1 : scaling automatique selon la taille d'écran, fenêtre centrée au démarrage, badge de version dans la sidebar, tooltip notifications persistant au clic.",
+  "pub_date": "2026-06-02T22:54:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd28xY3VqUFVhWDgvR2RyNVAvR1FraDRJUXl4aVBwMHdrZ2MrbnIrTlZvcW9TNVA5T0VFYVkyVnJ3YnhPS3l6ZWN6NVpWTFhHaWY5ZndodDU1dlk2WVYvcnNnTFRkRndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMzYyNjIwCWZpbGU6a2lyb18wLjUuMF94NjQtc2V0dXAuZXhlCkJ4dFBSRGxhOURoWlhLYy9OaXA2SER0elN4VWZWcUh5ZStCd2ZINHpYVzJVYkdyOXFmNEtsNHBJM01KUWpXL2lpa2ZaZmx5S1FUZ0RTWVlwQ0tzQkRnPT0K",
-      "url": "https://github.com/Killian8-arch/Kiro_releases/releases/download/v0.5.0/kiro_0.5.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd28xY3VqUFVhWC9QUmQ3WW1YTFNPbEIwV2srdWdleGZYeUdCa3E2QVZwWThEdkFhT2txNG5TT29pS0QvZStlVnV1VGpBNy9zUEhxWWVSOWFCZS9IenhFVWFBbHhobkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDU1Mjk1CWZpbGU6a2lyb18wLjUuMV94NjQtc2V0dXAuZXhlClFhYzFGUUhuSEdrOWIxa0VPMWtzcDRNS2J6MTNLeUJXbkljd2ZMeElObWo0aFVpdTZFcHcyQ0NwRFBid1d2bUxZQ0Iwd1JITXY1QWQ0aXp4bmVIVEFBPT0K",
+      "url": "https://github.com/Killian8-arch/Kiro_releases/releases/download/v0.5.1/kiro_0.5.1_x64-setup.nsis.zip"
     }
   }
 }
