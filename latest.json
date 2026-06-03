@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd28xY3VqUFVhWDhIZlVYVjJ4S01MMnlCelYwQS9kK2hFRDFFd0pzWWNVdmpwL0p3YkhaMFRVMk8xZXdHb3U5dng1LzhCeWZzSnFNYVJNbkFjNkJUWjd1QStiMDJzbWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNTMwMTE3CWZpbGU6a2lyb18wLjUuMl94NjQtc2V0dXAuZXhlCkhENGN2SlZHRE85YnVRVWZXLzNSdURSZUxSbDRQS3Z5eDZiWmRyczF6dzVGM3c2MVZRcjN3a1VaVjdzTGhuMlp1Ni85Y0R1NGN4NThrMTVOMFZUYUN3PT0K",
-      "url": "https://github.com/Killian8-arch/Kiro_releases/releases/download/v0.5.2/kiro_0.5.2_x64-setup.nsis.zip"
+      "url": "https://github.com/Killian8-arch/Kiro_releases/releases/download/v0.5.2/kiro_0.5.2_x64-setup.exe"
     }
   }
 }
